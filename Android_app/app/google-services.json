@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "289117721983",
+    "firebase_url": "https://android-lab-8.firebaseio.com",
+    "project_id": "android-lab-8",
+    "storage_bucket": "android-lab-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289117721983:android:6cbc005c636852f9",
+        "android_client_info": {
+          "package_name": "lab8.achahal3207.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289117721983-d0mfokudrpqjub22e311v60l33k34pnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarwzcad1xPk81rI9p181OqE2LiSRcfgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289117721983:android:7521d0243141c2c5",
+        "android_client_info": {
+          "package_name": "achahal3207.assignment_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289117721983-d0mfokudrpqjub22e311v60l33k34pnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarwzcad1xPk81rI9p181OqE2LiSRcfgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
